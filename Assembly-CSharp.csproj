@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\GameScript.cs" />
+     <Compile Include="Assets\Scripts\MoveToPoint.cs" />
      <Compile Include="Assets\Scripts\myNodeScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
